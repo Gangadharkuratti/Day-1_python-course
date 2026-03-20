@@ -1,8 +1,16 @@
 # Python Practice by GANGADHAR
 
-This repo contains my daily Python learning programs.
+This repository contains my Python learning journey 🚀
 
-## Completed:
+## Completed
 - Practice Set 1 ✅
 
-More coming soon 🚀
+## Programs
+- Sum of two numbers
+- Remainder program
+- Input type check
+- largest of two numbers
+- average of two numbers entered by the user
+- Square of number
+
+More coming soon 💯
