@@ -31,3 +31,12 @@ This repository contains my Python learning journey 🚀
   - checking that the tuple cannot be changed
   - sum a list
   - count operation on tuple
+
+## completed (Day_4)
+  - practice set 4 ✅
+
+## programs
+  - creating dictionary with hindi words as keys and english words as values
+  - program to input six numbers from the user and display all the unique numbers once
+  - program to perform set operations
+  - properties of dictionary and sets
