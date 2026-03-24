@@ -40,3 +40,13 @@ This repository contains my Python learning journey 🚀
   - program to input six numbers from the user and display all the unique numbers once
   - program to perform set operations
   - properties of dictionary and sets
+
+## completed (Day_5)
+  - practice set 5 ✅
+
+## programs
+  - program to find the greatest of four numbers entered by the user
+  - program to find whether a student has passed or failed
+  - program to find the whether a given username contains less than 10 characters or not
+  - program to find whether a given name is present in list or not
+  - program to print grade of the students
