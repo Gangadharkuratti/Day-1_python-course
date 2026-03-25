@@ -50,3 +50,13 @@ This repository contains my Python learning journey 🚀
   - program to find the whether a given username contains less than 10 characters or not
   - program to find whether a given name is present in list or not
   - program to print grade of the students
+
+## completed (Day_6)
+ - practice set 6 ✅
+
+## programs
+  - program to print a table of a number entered by the user using for loop
+  - program to greet persons in list 'l' which starts with 's'
+  - program to print a table of a number entered by the user using while loop
+  - program to find whether a given number is prime or not
+  - program to find the sum of first n natural numbers
