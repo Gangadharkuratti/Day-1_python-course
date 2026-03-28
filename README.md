@@ -74,7 +74,10 @@ This repository contains my Python learning journey 🚀
   - practice set 8 ✅
 
 ## programs
-  -program to find the area of circle
-  -program to find the area of rectangle
-  -program to find the area of triangle
-  -program to find the area of square
+  - program to find the area of circle
+  - program to find the area of rectangle
+  - program to find the area of triangle
+  - program to find the area of square
+  -
+  -
+  -
