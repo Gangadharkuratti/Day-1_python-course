@@ -78,4 +78,14 @@ This repository contains my Python learning journey 🚀
   - program to find the area of rectangle
   - program to find the area of triangle
   - program to find the area of square
+
+## completed (Day_9)
+  - practice set 9 ✅
+
+## programs
+  - program to find the square of a number
+  - program to find the cube of the number
+  - program to find the a average of the numbers
+  - program to covert celsius to fahrenheit
+  
   
