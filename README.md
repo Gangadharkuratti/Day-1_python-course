@@ -97,5 +97,15 @@ This repository contains my Python learning journey 🚀
   - program to find the largest of three numbers
   - program to swap two numbers
   - program to swap two numbers using third variable
+
+## completed (Day_11)
+  - practice set 11 ✅
+
+## programs
+  - program to convert fahrenheit to celsius
+  - programto calculate compound interest
+  - program to find simple interest
+  - program to check whether the user entered is alphabet or not
+    
   
   
