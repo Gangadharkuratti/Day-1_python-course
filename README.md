@@ -106,6 +106,16 @@ This repository contains my Python learning journey 🚀
   - programto calculate compound interest
   - program to find simple interest
   - program to check whether the user entered is alphabet or not
+
+## completed (Day_12)
+  - practice set 12 ✅
+
+## programs
+  - program to check whether a user entered character is vowel or a consonent
+  - program to check the entered alphabet is a lower or upper case
+  - program to print the ASCII value of entered character
+  - program to print the sum of natural numbers
+
     
   
   
