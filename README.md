@@ -114,7 +114,16 @@ This repository contains my Python learning journey 🚀
   - program to check whether a user entered character is vowel or a consonent
   - program to check the entered alphabet is a lower or upper case
   - program to print the ASCII value of entered character
-  - program to print the sum of natural numbers
+  - program to print the sum of natural number
+
+## completed (Day_13)
+  - practice set 13 ✅
+
+## programs 
+  - program to print tables of a number
+  - program to print numbers from 1 to n
+  - program to print even numbers
+  - program to print odd numbers
 
     
   
