@@ -126,11 +126,19 @@ This repository contains my Python learning journey 🚀
   - program to print odd numbers
 
 ## completed (Day_14)
-  - practice set 13 ✅
+  - practice set 14 ✅
 
 ## programs
   - program to print the fibonacci series
   - program to print the sum of the digits
+
+## completed (Day_15)
+  - practice set 15 ✅
+
+## programs
+  - program to print reverse of a number
+  - program to print the count of digits
+  
   
 
     
