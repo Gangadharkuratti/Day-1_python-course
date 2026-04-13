@@ -151,8 +151,13 @@ This repository contains my Python learning journey 🚀
 
 ## programs
   - program to print the armstrong number
+  - program to find the pallindrome number
 
- 
+## completed (Day_18)
+  - practice set 18 ✅
+
+## programs
+  - program to find the lcm of numbers entered by the user 
     
   
   
