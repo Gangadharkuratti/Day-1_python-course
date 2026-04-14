@@ -159,5 +159,9 @@ This repository contains my Python learning journey 🚀
 ## programs
   - program to find the lcm of numbers entered by the user 
     
-  
+## completed (Day_19)
+  - practice set 19 ✅
+
+## programs
+  - program to find the gcd of numbers entered by the user   
   
