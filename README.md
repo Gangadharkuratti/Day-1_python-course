@@ -170,4 +170,12 @@ This repository contains my Python learning journey 🚀
 
 ## programs
   - program to print the power of a number
-  - above program using no loop 
+  - above program using no loop
+
+
+## completed (Day_21)
+  - practice set 21 ✅
+
+## programs
+  - program to print whether a number is strong number or not 
+    
